@@ -19,4 +19,4 @@ function tir(e){
     console.log(e.screenY);
 }
 
-console.log("hallo a");
+console.log("hllo a");
