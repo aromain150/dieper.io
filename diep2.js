@@ -18,3 +18,5 @@ function tir(e){
     console.log(e.screenX);
     console.log(e.screenY);
 }
+
+console.log("salut");
